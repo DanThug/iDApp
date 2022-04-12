@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+
+.form-container {
+    margin-top: 15%;
+    border-radius: 5px;
+    padding: 5%;
+    background-color: white;
+}
